@@ -1,0 +1,14 @@
+name: crystal-ipify
+version: 0.1.0
+
+development_dependencies:
+  webmock:
+    github: manastech/webmock.cr
+    branch: master
+
+authors:
+  - Mauricio de Abreu Antunes <mauricio.abreua@gmail.com>
+
+crystal: 0.23.1
+
+license: MIT
